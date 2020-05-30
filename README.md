@@ -16,7 +16,7 @@ result = 5
 - tttt
 - KSI
 - Tion Wayne
-*Danny shhhhhhhh*
-'5**2'
+*Danny shhhhhhhh*  
+`5**2`
 
 
