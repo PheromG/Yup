@@ -6,4 +6,5 @@ STUDY
 3*5  
 print("sup")  
 result = 5  
-![dan digdy dan]()
+![dan digdy dan](Screen Shot 2020-05-16 at 10.10.06 PM.png)  
+
