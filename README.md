@@ -6,5 +6,5 @@ STUDY
 3*5  
 print("sup")  
 result = 5  
-![dan digdy dan](Screen Shot 2020-05-16 at 10.10.06 PM.png)  
+![dan digdy dan](https://github.com/PheromG/Yup/blob/master/Screen%20Shot%202020-05-16%20at%2010.10.06%20PM.png)  
 
