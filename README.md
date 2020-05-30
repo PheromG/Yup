@@ -6,3 +6,4 @@ STUDY
 3*5  
 print("sup")  
 result = 5  
+![dan digdy dan]()
